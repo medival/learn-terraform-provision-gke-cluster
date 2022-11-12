@@ -1,2 +1,2 @@
 project_id = "REPLACE_ME"
-region     = "us-central1"
+region     = "asia-southeast2"
