@@ -49,7 +49,7 @@ resource "google_container_node_pool" "primary_nodes" {
     ]
 
     preemptible  = true
-    machine_type = "f1-micro"
+    machine_type = "e2-medium"
     disk_size_gb = 30
     disk_type    = "pd-standard"
     metadata = {
